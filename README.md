@@ -6,5 +6,5 @@
 
 
 ## Day 2
-### Session 2 - Data Labelling
+### Session 2 - Data Labelling and Data Protection
 
