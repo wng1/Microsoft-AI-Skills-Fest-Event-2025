@@ -5,3 +5,6 @@
 ### Session 1 - Protect data in the age of AI
 
 
+## Day 2
+### Session 2 - Data Labelling
+
