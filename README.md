@@ -8,3 +8,8 @@
 ## Day 2
 ### Session 2 - Data Labelling and Data Protection
 
+## Day 3
+### Session 3 - Identify and mitigate AI data security risks
+### Session 4 - Govern and protect sensitive information in the age of AI
+
+
