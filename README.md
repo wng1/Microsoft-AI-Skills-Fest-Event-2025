@@ -12,4 +12,4 @@
 ### Session 3 - Identify and mitigate AI data security risks
 ### Session 4 - Govern and protect sensitive information in the age of AI
 
-
+## Day 4
