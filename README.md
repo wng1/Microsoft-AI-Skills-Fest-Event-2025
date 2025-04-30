@@ -19,3 +19,6 @@
 
 ## Day 6 
 ### Generative AI
+
+## Day 6 
+### Microsoft Puriview Review
