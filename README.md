@@ -23,5 +23,8 @@
 ## Day 6 
 ### Microsoft Puriview Review
 
-## Day 7
+## Day 7 - 13
+Review
+
+## Day 14
 Review
